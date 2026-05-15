@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Siya Priya 👋
 
-<!--
-**siyapriya14/siyapriya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Beginner software developer interested in Python, AI projects, and web development.
 
-Here are some ideas to get you started:
+Currently learning:
+- Python Development
+- Machine Learning Basics
+- Streamlit
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Streamlit
+
+---
+
+## Projects
+
+### AI Document Search System
+AI-powered document search application using Python, Streamlit, and RAG.
+
+🔗 Live Demo:
+https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/
+
+🔗 GitHub Repository:
+https://github.com/siyapriya14/AI-Document-Search
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siyapriya14&show_icons=true)
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/siyapriya14
