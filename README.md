@@ -31,12 +31,15 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 
 ---
 
-### 🤖 AI Document Search
-> **Intelligent Semantic Search Application**
+### 🤖 [AI Document Search](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)
+> **Intelligent Semantic Search Application** | 🚀 **[Live Demo App](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)**
 
-- AI-driven document search engine built with **Python**, **Streamlit**, and NLP pipelines for fast query-based context retrieval from complex documents.
+[![Live Demo](https://img.shields.io/badge/Demo-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
----
+- **Semantic Document Retrieval:** Python aur Streamlit se bana NLP-powered semantic search engine jo complex documents se relevant information extract karta hai.
+- **Interactive UI:** Streamlit interface ke zariye fast contextual search aur real-time document analysis facilitate karta hai.
 
 ### 🎓 AI Student Management System
 > **Automated Student Operations Platform**
