@@ -55,12 +55,15 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 
 ---
 
-### ✅ Task Manager App
-> **Full-Stack Task Management Solution**
+### ✅ [Task Manager App](https://task-manager-theta-seven-76.vercel.app/)
+> **Full-Stack Task Management Solution** | 🚀 **[Live Demo App](https://task-manager-theta-seven-76.vercel.app/)**
 
-- Modern task management application developed with **Next.js**, **TypeScript**, and full-stack API integration.
+[![Live Demo](https://img.shields.io/badge/Demo-Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://task-manager-theta-seven-76.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
----
+- **Full-Stack Architecture:** Next.js aur TypeScript se bana end-to-end task tracking application jo efficient state management aur CRUD operations offer karta hai.
+- **Production Deployment:** Responsive UI ke sath Vercel par deployed.
 
 ## 🧰 Tech Stack & Tools
 
