@@ -16,8 +16,8 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 [![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/lite)
 
 - **Edge-AI Pipeline:** Quantized MobileNetV2 CNN model (`.tflite`) engineered for low-latency, low-resource edge deployment.
-- **FastAPI Microservice:** Real-time inference backend with diagnostic outputs and dynamic agricultural treatment recommendations.
-- **Production Infrastructure:** Live deployment on Render with automated keep-alive uptime monitoring via `cron-job.org`.
+- **FastAPI Microservice:** Real-time inference backend providing diagnostic outputs and dynamic agricultural treatment recommendations.
+- **Production Infrastructure:** Deployed on Render with automated keep-alive uptime monitoring via `cron-job.org`.
 
 ---
 
@@ -27,19 +27,21 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 [![Live Demo](https://img.shields.io/badge/Demo-Live_App-0070f3?style=for-the-badge&logo=vercel)](https://smart-invest-hub-ten.vercel.app)
 [![JavaScript](https://img.shields.io/badge/Frontend-Interactive_UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-- Built an interactive web platform featuring secure login authentication, dynamic investment portfolio calculators, and responsive financial data visualizations.
+- **Financial Analytics:** Responsive web application featuring authentication workflows, investment portfolio calculators, and real-time visualization dashboards.
 
 ---
 
 ### 🤖 [AI Document Search](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)
-> **Intelligent Semantic Search Application** | 🚀 **[Live Demo App](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)**
+> **Intelligent Semantic Search & NLP Application** | 🚀 **[Live Demo App](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-document-search-k7rrmuf3bcyegbehqxahyu.streamlit.app/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- **Semantic Document Retrieval:** Python aur Streamlit se bana NLP-powered semantic search engine jo complex documents se relevant information extract karta hai.
-- **Interactive UI:** Streamlit interface ke zariye fast contextual search aur real-time document analysis facilitate karta hai.
+- **Semantic Retrieval Engine:** Built an NLP-driven semantic search pipeline extracting dynamic contextual insights from unstructured document sets.
+- **Interactive Parsing UI:** Streamlit interface optimized for fast query execution, document vectorization, and real-time text analysis.
+
+---
 
 ### 🎓 [AI Student Management System](https://github.com/siyapriya14/AI-Student-Management-System)
 > **Desktop GUI Application for Academic Operations** | 💻 **Local Execution Model**
@@ -48,9 +50,10 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-- **Relational Data Management:** Desktop application engineered with Python and Tkinter for full CRUD operations, attendance log tracking, and subject mark compilation.
-- **Rule-Based AI Insights:** Embedded performance evaluation algorithms that automatically generate academic remarks based on student metrics.
-- **Local Persistence:** Integrated relational database layer using SQLite3 for offline data storage.
+- **Relational Operations:** Engineered a desktop platform using Python and Tkinter for structured student CRUD workflows, attendance tracking, and grading logs.
+- **Automated Insights:** Rule-based performance evaluation module generating instant academic progress remarks.
+
+---
 
 ### 📚 [AI-Powered Study Assistant](https://ai-powered-study-assistant-5fa9.onrender.com/)
 > **Interactive Academic Learning Companion** | 🚀 **[Live Demo App](https://ai-powered-study-assistant-5fa9.onrender.com/)**
@@ -59,8 +62,11 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-- **PDF Parsing & Summarization:** Flask backend powered by `pdfplumber` to extract content from PDF lecture notes and generate smart study summaries.
-- **Dynamic Quiz Generator:** Instant question generation engine based on uploaded study materials to test retention.
+- **PDF Parsing & Summarization:** Flask backend powered by `pdfplumber` to extract content from lecture notes and generate automated study summaries.
+- **Dynamic Quiz Engine:** Algorithmic question generation module based on document context to enhance material retention.
+
+---
+
 ### ✅ [Task Manager App](https://task-manager-theta-seven-76.vercel.app/)
 > **Full-Stack Task Management Solution** | 🚀 **[Live Demo App](https://task-manager-theta-seven-76.vercel.app/)**
 
@@ -68,20 +74,22 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-- **Full-Stack Architecture:** Next.js aur TypeScript se bana end-to-end task tracking application jo efficient state management aur CRUD operations offer karta hai.
-- **Production Deployment:** Responsive UI ke sath Vercel par deployed.
+- **Full-Stack Architecture:** End-to-end task management web solution engineered with Next.js and TypeScript for type-safe state handling and seamless CRUD operations.
+- **Cloud Infrastructure:** Production-grade deployment configured on Vercel with responsive dark-mode UI layout.
+
+---
 
 ## 🧰 Tech Stack & Tools
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **AI, ML & Data Analytics**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -93,12 +101,12 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### **Tools & Deployment**
+### **Tools, Databases & Deployment**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
