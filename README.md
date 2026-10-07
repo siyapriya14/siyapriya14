@@ -41,20 +41,26 @@ Passionate about engineering production-grade AI systems, lightweight Computer V
 - **Semantic Document Retrieval:** Python aur Streamlit se bana NLP-powered semantic search engine jo complex documents se relevant information extract karta hai.
 - **Interactive UI:** Streamlit interface ke zariye fast contextual search aur real-time document analysis facilitate karta hai.
 
-### 🎓 AI Student Management System
-> **Automated Student Operations Platform**
+### 🎓 [AI Student Management System](https://github.com/siyapriya14/AI-Student-Management-System)
+> **Desktop GUI Application for Academic Operations** | 💻 **Local Execution Model**
 
-- Comprehensive administrative platform featuring AI-powered productivity tools, automated record tracking, and performance analytics.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
----
+- **Relational Data Management:** Desktop application engineered with Python and Tkinter for full CRUD operations, attendance log tracking, and subject mark compilation.
+- **Rule-Based AI Insights:** Embedded performance evaluation algorithms that automatically generate academic remarks based on student metrics.
+- **Local Persistence:** Integrated relational database layer using SQLite3 for offline data storage.
 
-### 📚 AI-Powered Study Assistant
-> **Interactive Academic Learning Companion**
+### 📚 [AI-Powered Study Assistant](https://ai-powered-study-assistant-5fa9.onrender.com/)
+> **Interactive Academic Learning Companion** | 🚀 **[Live Demo App](https://ai-powered-study-assistant-5fa9.onrender.com/)**
 
-- Smart assistant designed to streamline study workflows, generate topic summaries, and optimize learning productivity.
+[![Live Demo](https://img.shields.io/badge/Demo-Live_App-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-powered-study-assistant-5fa9.onrender.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
----
-
+- **PDF Parsing & Summarization:** Flask backend powered by `pdfplumber` to extract content from PDF lecture notes and generate smart study summaries.
+- **Dynamic Quiz Generator:** Instant question generation engine based on uploaded study materials to test retention.
 ### ✅ [Task Manager App](https://task-manager-theta-seven-76.vercel.app/)
 > **Full-Stack Task Management Solution** | 🚀 **[Live Demo App](https://task-manager-theta-seven-76.vercel.app/)**
 
